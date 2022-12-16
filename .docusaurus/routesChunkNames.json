@@ -1,0 +1,247 @@
+{
+  "/TiagoPS23/cvdoc/__docusaurus/debug-9fa": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---tiago-ps-23-cvdoc-docusaurus-debug-0-ea-8f9"
+    }
+  },
+  "/TiagoPS23/cvdoc/__docusaurus/debug/config-787": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---tiago-ps-23-cvdoc-docusaurus-debug-0-ea-8f9"
+    }
+  },
+  "/TiagoPS23/cvdoc/__docusaurus/debug/content-ad5": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---tiago-ps-23-cvdoc-docusaurus-debug-0-ea-8f9"
+    },
+    "allContent": "allContent---tiago-ps-23-cvdoc-docusaurus-debug-content-246-2a0"
+  },
+  "/TiagoPS23/cvdoc/__docusaurus/debug/globalData-fed": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---tiago-ps-23-cvdoc-docusaurus-debug-0-ea-8f9"
+    }
+  },
+  "/TiagoPS23/cvdoc/__docusaurus/debug/metadata-849": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---tiago-ps-23-cvdoc-docusaurus-debug-0-ea-8f9"
+    }
+  },
+  "/TiagoPS23/cvdoc/__docusaurus/debug/registry-99a": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---tiago-ps-23-cvdoc-docusaurus-debug-0-ea-8f9"
+    }
+  },
+  "/TiagoPS23/cvdoc/__docusaurus/debug/routes-519": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---tiago-ps-23-cvdoc-docusaurus-debug-0-ea-8f9"
+    }
+  },
+  "/TiagoPS23/cvdoc/blog-6e9": {
+    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__context": {
+      "plugin": "plugin---tiago-ps-23-cvdoc-blog-833-326"
+    },
+    "sidebar": "sidebar---tiago-ps-23-cvdoc-blog-814-333",
+    "items": [
+      {
+        "content": "content---tiago-ps-23-cvdoc-blog-766-89f"
+      },
+      {
+        "content": "content---tiago-ps-23-cvdoc-blogf-4-f-cd2"
+      },
+      {
+        "content": "content---tiago-ps-23-cvdoc-blog-871-f85"
+      },
+      {
+        "content": "content---tiago-ps-23-cvdoc-blog-925-53c"
+      }
+    ],
+    "metadata": "metadata---tiago-ps-23-cvdoc-blog-6-a-5-cf2"
+  },
+  "/TiagoPS23/cvdoc/blog/archive-39c": {
+    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+    "__context": {
+      "plugin": "plugin---tiago-ps-23-cvdoc-blog-833-326"
+    },
+    "archive": "archive---tiago-ps-23-cvdoc-blog-archived-2-a-d7b"
+  },
+  "/TiagoPS23/cvdoc/blog/first-blog-post-75f": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---tiago-ps-23-cvdoc-blog-833-326"
+    },
+    "sidebar": "sidebar---tiago-ps-23-cvdoc-blog-814-333",
+    "content": "content---tiago-ps-23-cvdoc-blog-first-blog-poste-27-1c6"
+  },
+  "/TiagoPS23/cvdoc/blog/long-blog-post-00a": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---tiago-ps-23-cvdoc-blog-833-326"
+    },
+    "sidebar": "sidebar---tiago-ps-23-cvdoc-blog-814-333",
+    "content": "content---tiago-ps-23-cvdoc-blog-long-blog-post-736-0dd"
+  },
+  "/TiagoPS23/cvdoc/blog/mdx-blog-post-8f5": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---tiago-ps-23-cvdoc-blog-833-326"
+    },
+    "sidebar": "sidebar---tiago-ps-23-cvdoc-blog-814-333",
+    "content": "content---tiago-ps-23-cvdoc-blog-mdx-blog-post-593-fb8"
+  },
+  "/TiagoPS23/cvdoc/blog/tags-395": {
+    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
+    "__context": {
+      "plugin": "plugin---tiago-ps-23-cvdoc-blog-833-326"
+    },
+    "sidebar": "sidebar---tiago-ps-23-cvdoc-blog-814-333",
+    "tags": "tags---tiago-ps-23-cvdoc-blog-tags-0-d-8-0e1"
+  },
+  "/TiagoPS23/cvdoc/blog/tags/docusaurus-552": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---tiago-ps-23-cvdoc-blog-833-326"
+    },
+    "sidebar": "sidebar---tiago-ps-23-cvdoc-blog-814-333",
+    "items": [
+      {
+        "content": "content---tiago-ps-23-cvdoc-blog-766-89f"
+      },
+      {
+        "content": "content---tiago-ps-23-cvdoc-blogf-4-f-cd2"
+      },
+      {
+        "content": "content---tiago-ps-23-cvdoc-blog-871-f85"
+      },
+      {
+        "content": "content---tiago-ps-23-cvdoc-blog-925-53c"
+      }
+    ],
+    "tag": "tag---tiago-ps-23-cvdoc-blog-tags-docusaurus-6-ac-101",
+    "listMetadata": "listMetadata---tiago-ps-23-cvdoc-blog-tags-docusauruse-19-652"
+  },
+  "/TiagoPS23/cvdoc/blog/tags/facebook-2df": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---tiago-ps-23-cvdoc-blog-833-326"
+    },
+    "sidebar": "sidebar---tiago-ps-23-cvdoc-blog-814-333",
+    "items": [
+      {
+        "content": "content---tiago-ps-23-cvdoc-blog-766-89f"
+      }
+    ],
+    "tag": "tag---tiago-ps-23-cvdoc-blog-tags-facebook-3-bd-0d8",
+    "listMetadata": "listMetadata---tiago-ps-23-cvdoc-blog-tags-facebook-6-f-0-fdc"
+  },
+  "/TiagoPS23/cvdoc/blog/tags/hello-ea0": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---tiago-ps-23-cvdoc-blog-833-326"
+    },
+    "sidebar": "sidebar---tiago-ps-23-cvdoc-blog-814-333",
+    "items": [
+      {
+        "content": "content---tiago-ps-23-cvdoc-blog-766-89f"
+      },
+      {
+        "content": "content---tiago-ps-23-cvdoc-blog-871-f85"
+      }
+    ],
+    "tag": "tag---tiago-ps-23-cvdoc-blog-tags-hello-1-ea-3d9",
+    "listMetadata": "listMetadata---tiago-ps-23-cvdoc-blog-tags-hello-164-ab4"
+  },
+  "/TiagoPS23/cvdoc/blog/tags/hola-e79": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---tiago-ps-23-cvdoc-blog-833-326"
+    },
+    "sidebar": "sidebar---tiago-ps-23-cvdoc-blog-814-333",
+    "items": [
+      {
+        "content": "content---tiago-ps-23-cvdoc-blog-925-53c"
+      }
+    ],
+    "tag": "tag---tiago-ps-23-cvdoc-blog-tags-holade-1-ece",
+    "listMetadata": "listMetadata---tiago-ps-23-cvdoc-blog-tags-holab-80-e08"
+  },
+  "/TiagoPS23/cvdoc/blog/welcome-9fb": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---tiago-ps-23-cvdoc-blog-833-326"
+    },
+    "sidebar": "sidebar---tiago-ps-23-cvdoc-blog-814-333",
+    "content": "content---tiago-ps-23-cvdoc-blog-welcomed-9-f-fb5"
+  },
+  "/TiagoPS23/cvdoc/inde-b56": {
+    "__comp": "__comp---site-src-pages-inde-js-164-b42",
+    "__context": {
+      "plugin": "plugin---tiago-ps-23-cvdoc-inde-4-dc-f28"
+    },
+    "config": "config---tiago-ps-23-cvdoc-inde-5-e-9-263"
+  },
+  "/TiagoPS23/cvdoc/docs-987": {
+    "__comp": "__comp---theme-doc-page-1-be-9be",
+    "__context": {
+      "plugin": "plugin---tiago-ps-23-cvdoc-docs-3-b-4-991"
+    },
+    "versionMetadata": "versionMetadata---tiago-ps-23-cvdoc-docs-935-773"
+  },
+  "/TiagoPS23/cvdoc/docs/category/tutorial---basics-03f": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---tiago-ps-23-cvdoc-docs-category-tutorial-basics-88-b-182"
+  },
+  "/TiagoPS23/cvdoc/docs/category/tutorial---extras-037": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---tiago-ps-23-cvdoc-docs-category-tutorial-extras-763-d18"
+  },
+  "/TiagoPS23/cvdoc/docs/intro-cfc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---tiago-ps-23-cvdoc-docs-intro-0-e-3-1eb"
+  },
+  "/TiagoPS23/cvdoc/docs/tutorial-basics/congratulations-0df": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---tiago-ps-23-cvdoc-docs-tutorial-basics-congratulations-822-cae"
+  },
+  "/TiagoPS23/cvdoc/docs/tutorial-basics/create-a-blog-post-4a7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---tiago-ps-23-cvdoc-docs-tutorial-basics-create-a-blog-post-533-3f7"
+  },
+  "/TiagoPS23/cvdoc/docs/tutorial-basics/create-a-document-7fa": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---tiago-ps-23-cvdoc-docs-tutorial-basics-create-a-document-1-e-4-e01"
+  },
+  "/TiagoPS23/cvdoc/docs/tutorial-basics/create-a-page-e00": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---tiago-ps-23-cvdoc-docs-tutorial-basics-create-a-page-5-c-8-c27"
+  },
+  "/TiagoPS23/cvdoc/docs/tutorial-basics/deploy-your-site-cdf": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---tiago-ps-23-cvdoc-docs-tutorial-basics-deploy-your-sitef-55-b1e"
+  },
+  "/TiagoPS23/cvdoc/docs/tutorial-basics/markdown-features-7c0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---tiago-ps-23-cvdoc-docs-tutorial-basics-markdown-features-18-c-711"
+  },
+  "/TiagoPS23/cvdoc/docs/tutorial-extras/manage-docs-versions-842": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---tiago-ps-23-cvdoc-docs-tutorial-extras-manage-docs-versionsdff-04a"
+  },
+  "/TiagoPS23/cvdoc/docs/tutorial-extras/translate-your-site-ac5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---tiago-ps-23-cvdoc-docs-tutorial-extras-translate-your-sitee-44-851"
+  },
+  "/TiagoPS23/cvdoc/-cd2": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---tiago-ps-23-cvdoc-inde-4-dc-f28"
+    },
+    "content": "content---tiago-ps-23-cvdoc-f-39-3e1"
+  }
+}
